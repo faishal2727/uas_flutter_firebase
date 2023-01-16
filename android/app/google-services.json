@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817642444737",
+    "project_id": "uas-flutter-fe586",
+    "storage_bucket": "uas-flutter-fe586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817642444737:android:153ac0c7a87eef95c14140",
+        "android_client_info": {
+          "package_name": "com.faishal.latihan_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817642444737-0n3q77jrf5bt5abof11thb7u9mqalmgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHv_6NRcD32wj9ARTPyWrTWL15pyqHsRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817642444737-0n3q77jrf5bt5abof11thb7u9mqalmgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
